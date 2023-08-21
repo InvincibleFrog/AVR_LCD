@@ -1,4 +1,4 @@
-#include "LiquidCrystal.h"
+#include "AVR_LCD.h"
 #include <avr/io.h>
 #include <util/delay.h>
 
