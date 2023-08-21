@@ -1,5 +1,5 @@
-#ifndef LIQUIDCRYSTAL_H
-#define LIQUIDCRYSTAL_H
+#ifndef AVR_LCD_H
+#define AVR_LCD_H
 
 #include <stdint.h>
 
@@ -136,4 +136,4 @@ void lcd_leftToRight();
 */
 void lcd_rightToLeft();
 
-#endif // LIQUIDCRYSTAL_H
+#endif // AVR_LCD_H
